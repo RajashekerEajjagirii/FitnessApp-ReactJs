@@ -14,7 +14,7 @@ const Footer = () => {
                 </Typography>
 
                 <Stack direction='row' gap='50px' >
-                    <NavLink to='https://www.linkedin.com/in/rajasheker-eajjagiri-1628a2165' target='_blank'> 
+                    <NavLink to='https://www.linkedin.com/in/rajasheker-eajjagiri-9386b0208' target='_blank'> 
                             <Typography sx={{":hover":{color:'blue',bgcolor:'#e8c8c5'},color:'black'}} fontSize='30px'><FaLinkedin /></Typography>
                     </NavLink>
                     <NavLink to='https://www.youtube.com/' target='_blank'><Typography sx={{":hover":{color:'red',bgcolor:'#e8c8c5'},color:'black'}} fontSize='30px'> <FaYoutube /> </Typography> </NavLink>
