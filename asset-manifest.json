@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/FitnessApp-ReactJs/home/static/css/main.92bcebd8.css",
-    "main.js": "/FitnessApp-ReactJs/home/static/js/main.8264ba88.js",
-    "static/media/banner.png": "/FitnessApp-ReactJs/home/static/media/banner.5209b5e92a864ca0c615.png",
-    "static/media/gym.png": "/FitnessApp-ReactJs/home/static/media/gym.6e701417c428e2fbc267.png",
-    "index.html": "/FitnessApp-ReactJs/home/index.html",
-    "main.92bcebd8.css.map": "/FitnessApp-ReactJs/home/static/css/main.92bcebd8.css.map",
-    "main.8264ba88.js.map": "/FitnessApp-ReactJs/home/static/js/main.8264ba88.js.map"
+    "main.css": "/FitnessApp-ReactJs/static/css/main.92bcebd8.css",
+    "main.js": "/FitnessApp-ReactJs/static/js/main.5dbedad7.js",
+    "static/media/banner.png": "/FitnessApp-ReactJs/static/media/banner.5209b5e92a864ca0c615.png",
+    "static/media/gym.png": "/FitnessApp-ReactJs/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/FitnessApp-ReactJs/index.html",
+    "main.92bcebd8.css.map": "/FitnessApp-ReactJs/static/css/main.92bcebd8.css.map",
+    "main.5dbedad7.js.map": "/FitnessApp-ReactJs/static/js/main.5dbedad7.js.map"
   },
   "entrypoints": [
     "static/css/main.92bcebd8.css",
-    "static/js/main.8264ba88.js"
+    "static/js/main.5dbedad7.js"
   ]
 }
