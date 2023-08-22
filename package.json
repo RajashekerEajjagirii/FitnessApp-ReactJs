@@ -2,7 +2,7 @@
   "name": "fitness-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rajashekereajjagirii.github.io/FitnessApp-ReactJs",
+  "homepage": "https://RajashekerEajjagirii.github.io/FitnessApp-ReactJs",
   "dependencies": {
     "@emotion/react": "^11.11.0",
     "@emotion/styled": "^11.11.0",
